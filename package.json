@@ -1,8 +1,9 @@
 {
   "name": "eslint-config-ezze-prettier",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.0-alpha.1",
   "description": "ESLint rules for Prettier",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
